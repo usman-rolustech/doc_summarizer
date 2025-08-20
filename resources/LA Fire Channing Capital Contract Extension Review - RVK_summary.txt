@@ -1,0 +1,52 @@
+**Summary of RVK Memorandum: Channing Small Cap Value Equity - Contract Renewal**
+
+**Recommendation:** RVK recommends the Los Angeles Fire and Police Pension System (LAFPP) renew its contract with Channing Small Cap Value Equity for three years, aligning with LAFPP staff's recommendation. Despite short-term underperformance in Q1 2025 due to tariff-driven market volatility, Channing rebounded in Q2 with a gross return of 10.7%, ranking in the 9th percentile of its peer group. RVK views this performance deviation as acceptable given the volatile nature of US small-cap equity and Channing’s concentrated portfolio approach.
+
+---
+
+### **Background:**
+- **Current Investment:** LAFPP has $81.5 million invested in Channing’s separate account (as of June 30, 2025), representing 4.1% of the Domestic Small Cap Equity composite and 0.2% of the Total Plan. LAFPP has been invested in Channing since October 2015.
+- **Firm Overview:** Founded in 2003, Channing manages $3.7 billion firm-wide, with $2.9 billion in its Small Cap Value strategy. The firm is minority-owned, 100% employee-owned, and headquartered in Chicago, Illinois.
+
+---
+
+### **Team and Investment Process:**
+- **Team Composition:** The strategy is led by Wendell Mackey, supported by a team with an average of 23 years of industry experience. The team conducts bottom-up, fundamental research to identify undervalued companies with strong market positions, balance sheets, and capable management teams.
+- **Portfolio Construction:** 
+  - Focuses on 30-50 stocks from a narrowed list of 50 candidates.
+  - Criteria include valuation opportunities (companies trading below 30% of intrinsic value), risk/reward assessment, sector positioning, and diversification.
+  - Maximum position size: 4.5%; cash allocation below 5%.
+
+---
+
+### **Performance (as of June 30, 2025):**
+- **Long-Term Results:** 
+  - Since inception (October 2015), the strategy has outperformed its benchmark (Russell 2000 Value Index) by 21 basis points annually (net of fees), ranking in the 71st percentile.
+  - Over the 3-year period, Channing outperformed by 144 basis points (63rd percentile), and over the 5-year period by 3 basis points (69th percentile).
+- **Recent Results:** 
+  - Q2 2025: Gross return of 10.69% vs. 4.97% for the benchmark (+5.72% difference).
+  - CYTD 2025: Gross return of 2.38% vs. 3.16% for the benchmark (-0.78% difference).
+- **Historical Highlights:** Strong relative performance in years like 2020 (+12.85% vs. benchmark) and 2023 (+6.26% vs. benchmark).
+
+---
+
+### **Fees:**
+- **Annual Fee Structure:** 0.65% for the first $25 million, 0.60% for the next $75 million, and 0.55% thereafter. The effective annual expense ratio for LAFPP is 0.62%, ranking in the 11th percentile of peer fees (median fee: 0.80%).
+
+---
+
+### **Portfolio Characteristics (as of June 30, 2025):**
+- **Market Cap:** Weighted average market cap of $5.87 billion (benchmark: $2.68 billion).
+- **Valuation Metrics:** Higher P/E ratio (18.64 vs. 14.13 for the benchmark) and Price/Book ratio (2.37 vs. 1.52).
+- **Sector Weights:** Overweight in Industrials (26.92% vs. 25.42%) and Information Technology (7.45% vs. 14.02%), underweight in Utilities (3.05% vs. 6.08%).
+
+---
+
+### **Peer Group Analysis:**
+- **Risk Metrics:** Channing demonstrates slightly higher risk (standard deviation: 26.72% vs. 25.33% for the benchmark) but delivers competitive excess return (7.77% vs. 5.62%) and tracking error (1.12).
+- **Sharpe Ratio:** 0.29 (benchmark: 0.22).
+
+---
+
+### **Conclusion:**
+Channing Small Cap Value Equity has delivered consistent long-term outperformance, competitive fees, and stable team management. RVK supports contract renewal for three years, citing alignment with LAFPP’s investment goals and confidence in the strategy despite short-term volatility.
